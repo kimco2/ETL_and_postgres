@@ -1,7 +1,7 @@
 # Creating an SQL database
 
  ### **Overview**
-This project developed an SQL database from existing data which had been transformed in python.
+Practised building an ETL pipeline using Python and Pandas to extract and transform data. After which the data was loaded into a Postgres database.
 
 ### **Aspects covered**
 - Extracting and transforming data contained in excel and csv files to create new DataFrames, and exporting them as csv files.
